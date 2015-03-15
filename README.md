@@ -37,4 +37,4 @@ The program floats a set of guessed k-values and solves the specified ODEs using
 
 The resulting k-values, or rate constants, that minimize the residual are stored in the object `parest`. A full report of results is stored in the object `fitval`.
 
-Results are plotted with `ggplot2`. The raw data are denoted by points and the overlaid curves represent the predicted concentrations as determined by parameter fitting.
+Results are plotted with the `ggplot2` package. The raw data are denoted by points and the overlaid curves represent the predicted concentrations as determined by parameter fitting.
