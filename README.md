@@ -1,6 +1,6 @@
 ## Fitting raw kinetic data to a chemical reaction model in R
 
-#### The following is a method of least squares parameter fitting for a system of ordinary differential equations that describe a user-defined kinetic model. The code was adapted from a post by user *rdabbler* on the *R-bloggers* website. The original post can be viewed **[here](http://www.r-bloggers.com/learning-r-parameter-fitting-for-models-involving-differential-equations/).** 
+#### The following is a method of least squares parameter fitting for a system of ordinary differential equations that describe a user-defined kinetic model. The R code was adapted from a post by user *rdabbler* on the *R-bloggers* website. The original post can be viewed **[here](http://www.r-bloggers.com/learning-r-parameter-fitting-for-models-involving-differential-equations/).** 
 
 ### File list
 
