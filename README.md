@@ -19,7 +19,7 @@ The proposed competitive reaction scheme is shown below.
 Accordingly, the corresponding set of differential equations that describe the system above are as follows.
 
 <p align="center">
-  <img src="equations.png" width="200" height="200" />
+  <img src="equations.png" width="250" height="250" />
 </p>
 
 The objective is to determine the values of $k_1$, $k_2$, $k_3$, $k_4$ and $k_5$ that most accurately predict the concentrations $[A]$, $[B]$, $[C]$ and $[D]$ as a function of time.
