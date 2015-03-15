@@ -13,7 +13,7 @@
 The proposed competitive reaction scheme is shown below.
 
 <p align="center">
-  <img src="comp_kinetics.png" width="300" height="50" />
+  <img src="comp_kinetics.png" width="300" height="75" />
 </p>
 
 Accordingly, the corresponding set of differential equations that describe the system above are as follows.
